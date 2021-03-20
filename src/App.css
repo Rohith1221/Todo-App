@@ -1,0 +1,18 @@
+
+.hello{
+  padding: 30px;
+  border-radius: 10px;
+  background-color: lightgrey;
+}
+.display-2{
+  text-align: center;
+}
+/* .form-control:focus {
+  outline:none;
+
+  box-shadow: none;
+  } */
+
+  .list-group-item .btn {
+    float: right;
+  }
